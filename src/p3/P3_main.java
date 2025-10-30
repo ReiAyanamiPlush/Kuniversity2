@@ -16,5 +16,7 @@ public class P3_main {
         if (j<k){
             System.out.println("C");
         }
+
     }
+
 }
